@@ -12,8 +12,8 @@ C:\VisualStudioProjects\VisualStudio2012\StatePattern\StatePattern\bin\Debug\Sta
 C:\VisualStudioProjects\VisualStudio2012\StatePattern\StatePattern\obj\x86\Debug\StatePattern.csproj.CoreCompileInputs.cache
 C:\VisualStudioProjects\VisualStudio2012\StatePattern\StatePattern\obj\x86\Debug\StatePattern.exe
 C:\VisualStudioProjects\VisualStudio2012\StatePattern\StatePattern\obj\x86\Debug\StatePattern.pdb
-C:\IdeaProjects\StatePattern\StatePattern\bin\Debug\StatePattern.exe
-C:\IdeaProjects\StatePattern\StatePattern\bin\Debug\StatePattern.pdb
-C:\IdeaProjects\StatePattern\StatePattern\obj\x86\Debug\StatePattern.csprojAssemblyReference.cache
-C:\IdeaProjects\StatePattern\StatePattern\obj\x86\Debug\StatePattern.exe
-C:\IdeaProjects\StatePattern\StatePattern\obj\x86\Debug\StatePattern.pdb
+E:\IdeaProjects\StatePattern\StatePattern\bin\Debug\StatePattern.exe
+E:\IdeaProjects\StatePattern\StatePattern\bin\Debug\StatePattern.pdb
+E:\IdeaProjects\StatePattern\StatePattern\obj\x86\Debug\StatePattern.csprojAssemblyReference.cache
+E:\IdeaProjects\StatePattern\StatePattern\obj\x86\Debug\StatePattern.exe
+E:\IdeaProjects\StatePattern\StatePattern\obj\x86\Debug\StatePattern.pdb
